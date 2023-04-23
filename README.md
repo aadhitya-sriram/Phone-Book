@@ -13,4 +13,6 @@ Technologies used: Python, tkinter and sqlite3.
 -> It is possible to meet ones needs by adding new columns of data using 'ALTER TABLE' sql commands.<br>
 
 **NOTE:**<br>
-A sampleDB file is included in the repository which is a list of randomly generated information. To use it for your own use, you can change the data_file variable to a different file location and create a table as per the query given at the end of the main.py file
+A sampleDB file is included in the repository which is a list of randomly generated information. To use it for your own use, you can change the data_file variable to a different file location and create a table as per the query given at the end of the main.py file.
+
+Finally, some parts of the code have the name 'AddressBook'. Please ignore that :D
